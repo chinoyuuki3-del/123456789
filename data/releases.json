@@ -1,25 +1,21 @@
 {
   "service": "Troll Engine Stable Release Center",
   "schema_version": 2,
-  "updated_at": "2026-07-31T07:20:00Z",
-  "latest": "4.8",
+  "updated_at": "2026-07-31T07:30:00Z",
+  "latest": "4.7",
   "releases": [
     {
       "version": "4.8",
-      "channel": "stable",
-      "title": "AFT Sync API Update",
+      "channel": "paused",
+      "title": "Friend Invite Syncへ変更中",
       "published_at": "2026-07-31",
-      "download_ready": true,
-      "download_url": "https://raw.githubusercontent.com/chinoyuuki3-del/123456789/main/releases/Troll-Engine-v4.8-AFT-Sync-API-Update.html",
-      "sha256": "4ef8410a9be98b28771628a79c881b367d83a822acb4b1d54806ad3596c9a090",
-      "size_bytes": 2013891,
+      "download_ready": false,
+      "download_url": "",
+      "sha256": "",
+      "size_bytes": 0,
       "notes": [
-        "Troll-Engine-yuukiを管理用サーバーとして分離",
-        "a123aを別端末のユーザー・友達同期APIとして分離",
-        "123456789をアップデート配信専用として維持",
-        "管理サーバーを約5秒ごとに確認",
-        "AFT Syncの登録・ログイン・友達検索・申請・承認画面を追加",
-        "同期APIの公開URLをAFT Sync画面へ設定して使用"
+        "API方式を取りやめ",
+        "友達の招待コードだけで接続する方式へ変更中"
       ]
     },
     {
