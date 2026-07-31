@@ -1,0 +1,8 @@
+{
+  "users": [],
+  "privacy": {
+    "public_fields": ["id", "username", "plan", "usage_bytes", "searchable", "status"],
+    "forbidden_fields": ["email", "password", "owner_key", "access_token", "address", "location", "private_messages"]
+  },
+  "updated_at": "2026-07-31T00:00:00+09:00"
+}
