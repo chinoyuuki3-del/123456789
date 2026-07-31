@@ -1,9 +1,26 @@
 {
   "service": "Troll Engine Stable Release Center",
   "schema_version": 2,
-  "updated_at": "2026-07-31T06:15:00Z",
-  "latest": "4.7",
+  "updated_at": "2026-07-31T07:00:00Z",
+  "latest": "4.8",
   "releases": [
+    {
+      "version": "4.8",
+      "channel": "stable",
+      "title": "AFT Sync API Update",
+      "published_at": "2026-07-31",
+      "download_ready": true,
+      "download_url": "https://raw.githubusercontent.com/chinoyuuki3-del/123456789/main/releases/Troll-Engine-v4.8-AFT-Sync-API-Update.html",
+      "sha256": "7312a605ae2e2bf161e4af06412482714e84d5951e836bfa3c464db0646c7184",
+      "size_bytes": 2013855,
+      "notes": [
+        "AFT Syncメニュー",
+        "サーバーAPIユーザー登録・ログイン",
+        "別端末の友達検索・申請・承認",
+        "AFTデータ保存・読込",
+        "APIサーバーの公開設定が必要"
+      ]
+    },
     {
       "version": "4.7",
       "channel": "stable",
