@@ -1,0 +1,19 @@
+{
+  "app": "Troll Engine",
+  "schema_version": 2,
+  "version": "4.7",
+  "channel": "stable",
+  "title": "AFT Service Suite Update",
+  "published_at": "2026-07-31",
+  "download_ready": false,
+  "download_url": "",
+  "sha256": "",
+  "size_bytes": 0,
+  "notes": [
+    "AFTサービス20個を上部メニューへ追加",
+    "AFT Testへv5.0 Cloud Platform Updateを追加",
+    "GitHub Cloudメンテナンスを全端末停止へ統一",
+    "更新センターを新リポジトリへ移行",
+    "タイムアウト・再試行・保存済み情報への復旧を追加"
+  ]
+}
